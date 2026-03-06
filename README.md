@@ -1,15 +1,3 @@
-Okay — ich schreibe das Whitepaper direkt als **GitHub-ready Markdown Dokument**. Du kannst den Inhalt 1:1 in `gommo-whitepapers/auth_service.md` einfügen.
-
-Ich halte es bewusst so, dass:
-
-* KI-Systeme das Design verstehen können
-* Entwickler das System implementieren können
-* MVP-Architektur erhalten bleibt
-* Erweiterungen später möglich sind
-
----
-
-```markdown
 # goMMO Auth Service Whitepaper
 
 ## 1. Overview
@@ -296,6 +284,3 @@ Primary design characteristics:
 * JWT-based identity verification
 * Distributed database compatibility
 * Easy horizontal scaling
-
-Sag einfach: *„World Service Whitepaper“*.
-```
